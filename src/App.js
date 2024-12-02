@@ -6,19 +6,15 @@ export function uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh() {
     <div>
       <h1>Hello world :3</h1>
 
-      <h3>The CIA hid listening devices under your skin.</h3> 
-        
-        <br></br>
+        <h2>here are things can do that I learned from CMPR100 to help your privacy:</h2> 
 
-        <h3>Although you cannot get them out, here are things can do that I learned from CMPR100 to help your privacy:</h3> 
-
-      <ol><b><p>1. Turn of permissions in your device configuration</p></b> 
+      <ol><b><p>1. Turn off permissions in your device configuration</p></b> 
 
       <p>All application permissions can be managed under your system settings</p>
 
       <br></br>
 
-      <b><p>2. Code in Neovim and TOR everything you do because the NSA tries to deanonymize you using your exit nodes</p></b> 
+      <b><p>2. Code in Neovim and DONT TOR everything you do because the NSA tries to deanonymize you using your exit nodes</p></b> 
 
       <p>Because VScode is an agent of microsoft and will spy on everything you work on.... actually you know what, just create your own operating system 
         like terry davis you'll be 100% safe and protected by god</p></ol> 
