@@ -6,7 +6,7 @@ export function uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh() {
     <div>
       <h1>Hello world!! :3</h1>
 
-        <h2>This is my silly little website <33</h2> 
+        <h2>This is my silly little website</h2> 
     
       <h3>while you wait for this website to be finished, please watch this wonderful webseries</h3>
 
